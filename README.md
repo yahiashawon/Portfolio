@@ -39,9 +39,9 @@ To successfully utilize this project first of all you need to clone or download 
 
 👤 Yahia Shawon
 
-- GitHub: [@EyasuTeshome](https://github.com/yahiashawon)
-- Twitter: [@EyasuTeshome](https://twitter.com/yahiashawon)
-- LinkedIn: [Eyasu Teshome](https://linkedin.com/in/#)
+- GitHub: [@yahiashawon](https://github.com/yahiashawon)
+- Twitter: [@yahiashawon](https://twitter.com/yahiashawon)
+- LinkedIn: [#](https://linkedin.com/in/#)
 
 ## Contributors
 👤 Faustin Makutano
