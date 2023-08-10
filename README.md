@@ -21,7 +21,7 @@ In this project I have used linter for HTML and CSS, to make sure there are no l
 
 ## Live Demo 
 
-[Live Demo](https://eyasuteshome.github.io/Portfolio/)
+[Live Demo](https://yahiashawon.github.io/Portfolio/)
 
 
 ## Getting Started
@@ -37,11 +37,11 @@ To successfully utilize this project first of all you need to clone or download 
 
 ## Authors
 
-👤 Eyasu Teshome
+👤 Yahia Shawon
 
-- GitHub: [@EyasuTeshome](https://github.com/EyasuTeshome)
-- Twitter: [@EyasuTeshome](https://twitter.com/EyasuTeshome)
-- LinkedIn: [Eyasu Teshome](https://linkedin.com/in/EyasuTeshome)
+- GitHub: [@EyasuTeshome](https://github.com/yahiashawon)
+- Twitter: [@EyasuTeshome](https://twitter.com/yahiashawon)
+- LinkedIn: [Eyasu Teshome](https://linkedin.com/in/#)
 
 ## Contributors
 👤 Faustin Makutano
